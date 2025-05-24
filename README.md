@@ -581,7 +581,7 @@ This code is provided as-is for educational and development purposes. Conduct th
 
 - [Sui Documentation](https://docs.sui.io/)
 - [Move Language Guide](https://move-language.github.io/move/)
-- [Omniliquid Website](https://omniliquid.io) (placeholder)
+- [Omniliquid Website](https://sui.omniliquid.xyz) 
 
 ---
 
